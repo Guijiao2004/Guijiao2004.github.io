@@ -8,7 +8,7 @@
       <link href="/2024/09/15/Twinning/"/>
       <url>/2024/09/15/Twinning/</url>
       
-        <content type="html"><![CDATA[<img src="/2024/09/15/Twinning/twinning%20elements.jpg" class="" title="This is an example image"><ul><li>$K_{1}$: composition plane (twin plane)</li><li>$K_{2}$: a plane which is rotated but undistorted as a result of  the twinning operation</li><li>$S$: the plane of shear perpendicular to $K_{1}$</li><li>$\eta_{1}$: shear direction</li><li>$\eta_{2}$: a rotated, but undistorted direction common to $S$ and $K_{2}$</li></ul>]]></content>
+        <content type="html"><![CDATA[<h1 id="1-Twinning-Elements"><a href="#1-Twinning-Elements" class="headerlink" title="1. Twinning Elements"></a>1. Twinning Elements</h1><img src="/2024/09/15/Twinning/twinning%20elements.jpg" class="" title="This is an example image"><ul><li>$K_{1}$: composition plane (twin plane)</li><li>$K_{2}$: the second undistorted plane (rotated but undistorted)</li><li>$S$: the plane of shear perpendicular to $K_{1}$</li><li>$\eta_{1}$: shear direction</li><li>$\eta_{2}$: a rotated, but undistorted direction common to $S$ and $K_{2}$</li></ul><h1 id="2-Lattice-Reproduction-Conditions"><a href="#2-Lattice-Reproduction-Conditions" class="headerlink" title="2. Lattice Reproduction Conditions"></a>2. Lattice Reproduction Conditions</h1><ol><li>$K_{1}$ is rational:<img src="/2024/09/15/Twinning/type_I%20twin.png" class="" title="type I twin"></li><li>$\eta_{1}$ and $K_{2}$ are rational, $\eta_{2}$ and $K_{1}$ are not:</li></ol><p><em>Tip: rational means passing through sets of points of the Bravais lattice.</em></p>]]></content>
       
       
       <categories>
