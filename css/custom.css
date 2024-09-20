@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'yzq';
+    src: url('/fonts/yzq.ttf');
+}
+
+/* 主题整体背景和文本颜色 */
+body {
+    background-color: #100e17; /* 深色背景 */
+    color: #bebebe; /* 默认文本颜色 */
+    font-family: 'yzq'
+}
+
+/* 链接样式 */
+a {
+    color: #6bcafb; /* 链接的默认颜色 */
+    text-decoration: none;
+}
+a:hover {
+    color: #6bcafb; /* 链接悬停时的颜色 */
+    text-decoration: underline; /* 悬停时显示下划线 */
+}
+
+/* 标题样式 */
+h1 {
+    color: #0fb6d6; /* 一级标题颜色 */
+    font-size: 34px; /* 一级标题字体大小 */
+}
+h2 {
+    color: #f3ff12; /* 二级标题颜色 */
+    font-size: 26px; /* 二级标题字体大小 */
+}
+
+/* 代码块样式 */
+pre, code {
+    background-color: #191621; /* 代码块背景色 */
+    color: #f4569d; /* 代码块文本颜色 */
+    border-radius: 5px; /* 圆角 */
+    padding: 10px; /* 内边距 */
+}
+
+/* 标签样式 */
+a.tag {
+    background-color: rgba(14, 210, 247, 0.15); /* 标签背景色 */
+    color: #0fb6d6; /* 标签文本颜色 */
+    border-radius: 5px; /* 标签圆角 */
+    padding: 2px 8px; /* 标签内边距 */
+    font-size: 0.85rem; /* 标签字体大小 */
+    font-style: italic; /* 斜体 */
+}
+
+
+/* 加粗样式 */
+strong, b {
+    color: #7aa2f7; /* 加粗文本颜色 */
+    font-weight: bold;
+    background-image: linear-gradient(62deg, #87c2fd 0%, #dcb9fc 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* 加粗斜体组合样式 */
+strong em, strong i, b em, b i {
+    color: #f4569d; /* 加粗斜体颜色 */
+    font-style: italic;
+    font-weight: bold;
+}
+
+/* 引用块样式 */
+blockquote {
+    border-left: 3px solid rgba(14, 210, 247, 0.5);
+    padding: 1rem 2rem;
+    background-color: #100e17;
+    color: #bdbdbd;
+    margin: 1.5em 0;
+    border-radius: 8px;
+}
+
+/* 高亮文本样式 */
+mark {
+    background-color: #f4569d;
+    color: white;
+    padding: 0 4px;
+    border-radius: 3px;
+}
+
+/* 列表样式 */
+ul, ol {
+    margin-left: 2rem;
+}
+ul li, ol li {
+    margin-bottom: 0.5rem;
+    color: #bebebe;
+}
+ul li::marker, ol li::marker {
+    color: #0fb6d6;
+}
