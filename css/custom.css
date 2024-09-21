@@ -1,13 +1,7 @@
-@font-face {
-    font-family: 'yzq';
-    src: url('/fonts/yzq.ttf');
-}
-
 /* 主题整体背景和文本颜色 */
 body {
     background-color: #100e17; /* 深色背景 */
     color: #bebebe; /* 默认文本颜色 */
-    font-family: 'yzq'
 }
 
 /* 链接样式 */
@@ -30,13 +24,7 @@ h2 {
     font-size: 26px; /* 二级标题字体大小 */
 }
 
-/* 代码块样式 */
-pre, code {
-    background-color: #191621; /* 代码块背景色 */
-    color: #f4569d; /* 代码块文本颜色 */
-    border-radius: 5px; /* 圆角 */
-    padding: 10px; /* 内边距 */
-}
+
 
 /* 标签样式 */
 a.tag {
@@ -58,12 +46,7 @@ strong, b {
     -webkit-text-fill-color: transparent;
 }
 
-/* 加粗斜体组合样式 */
-strong em, strong i, b em, b i {
-    color: #f4569d; /* 加粗斜体颜色 */
-    font-style: italic;
-    font-weight: bold;
-}
+
 
 /* 引用块样式 */
 blockquote {
@@ -75,13 +58,7 @@ blockquote {
     border-radius: 8px;
 }
 
-/* 高亮文本样式 */
-mark {
-    background-color: #f4569d;
-    color: white;
-    padding: 0 4px;
-    border-radius: 3px;
-}
+
 
 /* 列表样式 */
 ul, ol {
