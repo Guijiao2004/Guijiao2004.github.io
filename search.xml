@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>随机事件与概率</title>
+      <link href="/2024/09/21/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6%E4%B8%8E%E6%A6%82%E7%8E%87/"/>
+      <url>/2024/09/21/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6%E4%B8%8E%E6%A6%82%E7%8E%87/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> Math </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Probability </tag>
+            
+            <tag> Theory </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>回归分析</title>
       <link href="/2024/09/20/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%9B%9E%E5%BD%92%E5%88%86%E6%9E%90/"/>
       <url>/2024/09/20/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%9B%9E%E5%BD%92%E5%88%86%E6%9E%90/</url>
@@ -170,9 +197,32 @@
       
         <tags>
             
-            <tag> Probability </tag>
+            <tag> Probability Thoery </tag>
             
-            <tag> Thoery </tag>
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>概率论与数理统计</title>
+      <link href="/2024/09/17/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/"/>
+      <url>/2024/09/17/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/</url>
+      
+        <content type="html"><![CDATA[<h1>序言</h1><p>这是我在UMich的第一个学期，作为数据科学专业的学生，概率论与数理统计的基础是必不可少的. 虽然大一春季我曾自学过一遍这门课程，但总觉知识尚不扎实，仍有许多提升空间。此系列文章旨在重建概率论与数理统计的知识体系，为今后数据科学的学习做好铺垫. 我将重新回顾概率论与数理统计的基本知识点，并在此基础上挖掘更深刻的理解与阐释.</p><p>参考教材为茆诗松的《概率论与数理统计教程》.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Math </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Probability Thoery </tag>
             
         </tags>
       
@@ -222,7 +272,9 @@
       
         <tags>
             
-            <tag> Compute Methdod </tag>
+            <tag> Compute </tag>
+            
+            <tag> Methdod </tag>
             
         </tags>
       
