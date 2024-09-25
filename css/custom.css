@@ -23,8 +23,18 @@ h2 {
     color: #f3ff12; /* 二级标题颜色 */
     font-size: 26px; /* 二级标题字体大小 */
 }
-
-
+h3 {
+    color: #b129cf;
+    font-size: 22px;
+}
+h4 {
+    color: #0cc92c;
+    font-size: 22px;
+}
+h5 {
+    color: #a8f50e;
+    font-size: 18px;
+}
 
 /* 标签样式 */
 a.tag {
